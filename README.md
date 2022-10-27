@@ -10,12 +10,17 @@ Aplicativo desenvolvido com o Framework Flutter para consumir a Random User API
 - http: Para acessar e trazer os dados da api utilizada
 - connectivity_plus: Para teste de conexão com internet
 
+### Tratamentos de erros realizados no projeto
+- Erro de conexão 
+- Erro de dados incorretos
+
 
 ### Screenshots
 
 <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/users%20male.jpg" height="400em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/users%20female.jpg"  height="400em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/userview%20male.jpg" height="400em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/userview%20female.jpg" height="400em">
 
 ### GIF
+#### Espere um pouco para aparecer o gif 
 <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/gif.gif" height="560em" width="300">
 
 
