@@ -1,16 +1,18 @@
-# random_api_test
+# Random Users API Flutter
 
-A new Flutter project.
+Aplicativo desenvolvido com o Framework Flutter para consumir a Random User API  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Random Users API - https://randomuser.me/api/
 
-A few resources to get you started if this is your first Flutter project:
+### Plugins Utilizados
+- Provider: Para o gerenciamento de estado
+- Http: Para acessar e trazer os dados da api utilizada
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+
+<img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/users%20male.jpg" height="450em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/users%20female.jpg"  height="450em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/userview%20male.jpg" height="450em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/userview%20female.jpg" height="450em">
+
+### GIF
+<img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/gif.gif" height="560em" width="300" />
