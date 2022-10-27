@@ -15,4 +15,4 @@ Aplicativo desenvolvido com o Framework Flutter para consumir a Random User API
 <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/users%20male.jpg" height="430em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/users%20female.jpg"  height="430em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/userview%20male.jpg" height="430em"> <img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/userview%20female.jpg" height="430em">
 
 ### GIF
-<video src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/gif.mp4" height="560em" width="300" />
+<img src="https://github.com/DanylloNascimento/random-userapi_flutter/blob/main/assets/gif.gif" height="560em" width="300">
